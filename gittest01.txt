@@ -2,3 +2,5 @@ training memo
 pull
 add 1st
 mt
+commit
+
